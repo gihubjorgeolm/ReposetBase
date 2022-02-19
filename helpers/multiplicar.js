@@ -1,3 +1,7 @@
+/*
+Ejemplo: Invoca de manera asincrona
+*/
+
 const fs = require('fs');
 const colors = require('colors');
 

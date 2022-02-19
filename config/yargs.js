@@ -1,3 +1,7 @@
+/*
+Ejemplo: Invoca de manera asincrona
+*/
+
 const argv = require('yargs')
     .option('b', {
         alias: 'base',

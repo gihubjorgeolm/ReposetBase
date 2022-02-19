@@ -1,3 +1,7 @@
+/*
+Ejemplo: Invoca de manera asincrona
+*/
+
 const {crearTabla, crearTablaAsync} = require('./helpers/multiplicar');
 const argv = require('./config/yargs');
 
